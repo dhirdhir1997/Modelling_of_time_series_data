@@ -1,6 +1,6 @@
 # Modelling_of_time_series_data
 
-# Modeling Time Series Data with Recurrent Neural Networks in Keras
+
 
 The goal of this project is to build an example deep neural network that can predict future outcomes based on **time series**, or sequential, data.  
 
