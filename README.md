@@ -11,6 +11,6 @@ The purpose of building such a model, is to provide an analytic framework that m
 
 This project and patient **electronic health record (EHR)** data are provided by Children's Hospital Los Angeles (CHLA).
 
-TensorFlow, LSTM, RNN
+Machine learning project using Python and TensorFlow
 
 
