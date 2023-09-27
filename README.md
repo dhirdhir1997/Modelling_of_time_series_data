@@ -16,4 +16,4 @@ This project and patient **electronic health record (EHR)** data are provided by
 
 TensorFlow, LSTM, RNN
 
-# Data and modified data google drive link
+
